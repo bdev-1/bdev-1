@@ -14,6 +14,11 @@
   - [CompTIA Security+, Spring 2023]()
   - [CompTIA Linux+, Summer 2023]()
 
+ <b>Google</b>
+  - [Google IT Support]()
+  - [Google IT Automation with Python]()
+  - [Google Project Management]()
+
  <b>Busuu</b>
   - [Level A1 in Russian]()
   - [Level A2 in Russian]()
