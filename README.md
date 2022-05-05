@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">🇺🇸 Hello! 🇩🇪 Hallo! 🇷🇺 Здравствуйте!<br/><a href="https://github.com/bdev-1">Programmer</a>, and <a href="https://www.linkedin.com/in/brandondiazterry/">Cybersecurity Professional</a></h1>
+<h1 align="center">🇺🇸 Hello! 🇩🇪 Hallo! 🇷🇺 Здравствуйте!<br/><a href="https://github.com/bdev-1">Programmer</a>, <a href="https://www.linkedin.com/in/brandondiazterry/">Cybersecurity Professional</a>, <a href="https://brandon-terry.wixsite.com/projects">Blogger</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
