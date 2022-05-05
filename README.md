@@ -5,9 +5,10 @@
 <h1 align="center">🇺🇸 Hello! 🇩🇪 Hallo! 🇷🇺 Здравствуйте!<br/><a href="https://github.com/bdev-1">Programmer</a>, <a href="https://www.linkedin.com/in/brandondiazterry/">Cybersecurity Professional</a>, <a href="https://brandon-terry.wixsite.com/projects">Blogger</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
+
   - [Active Directory: OS Deployment and Managing User Accounts]()
-  - [File Integrity Monitor (FIM) in PowerShell]()
-  - [Vulnerability Management: Securing Windows Machines with Nessus]()
+  - [File Integrity Monitor in PowerShell]()
+  - [Resolving Vulnerabilities with Nessus]()
   - [Honeypot analysis with Azure Sentinel]()
   - [Implemenation of NERC CIP Framework]()
   - [Building a REST API]()
