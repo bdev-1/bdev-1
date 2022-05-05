@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**bdev-1/bdev-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h1 align="center">🇺🇸 Hello! 🇩🇪 Hallo! 🇷🇺 Здравствуйте!<br/><a href="https://github.com/bdev-1">Programmer</a>, and <a href="https://www.linkedin.com/in/brandondiazterry/">Cybersecurity Professional</a></h1>
+
+<h2>👨‍💻 Cybersecurity Projects</h2>
+
+<h2>📄 Certifications</h2>
+<b>CompTIA</b>
+
+  - [CompTIA A+, Summer 2022](https://github.com/joshmadakor1/EncrypterPOC)
+  - [CompTIA Network+, Fall 2022](https://github.com/joshmadakor1/DecrypterPOC)
+  - [CompTIA Security+, Spring 2023](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [CompTIA Linux+, Summer 2023](https://github.com/joshmadakor1/Key-Logger-With-Email)
+
+ <b>Busuu</b>
+  - [Level A1 in Russian]()
+  - [Level A2 in Russian]()
+  - [Level B1 in Russian]()
+  - [Level B2 in Russian]()
+
+<h2>🤳 Connect with me</h2>
+
+[<img align="left" alt="BrandonTerry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]:https://linkedin.com/in/brandondiazterry 
+
