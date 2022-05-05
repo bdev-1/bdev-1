@@ -9,10 +9,10 @@
 <h2>📄 Certifications</h2>
 <b>CompTIA</b>
 
-  - [CompTIA A+, Summer 2022](https://github.com/joshmadakor1/EncrypterPOC)
-  - [CompTIA Network+, Fall 2022](https://github.com/joshmadakor1/DecrypterPOC)
-  - [CompTIA Security+, Spring 2023](https://github.com/joshmadakor1/Key-Logger-With-Email)
-  - [CompTIA Linux+, Summer 2023](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [CompTIA A+, Summer 2022]()
+  - [CompTIA Network+, Fall 2022]()
+  - [CompTIA Security+, Spring 2023]()
+  - [CompTIA Linux+, Summer 2023]()
 
  <b>Busuu</b>
   - [Level A1 in Russian]()
