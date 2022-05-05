@@ -10,7 +10,7 @@
   - [File Integrity Monitor in PowerShell]()
   - [Resolving Vulnerabilities with Nessus]()
   - [Honeypot analysis with Azure Sentinel]()
-  - [Implemenation of NERC CIP Framework]()
+  - [Implementation of NERC CIP Framework]()
   - [Building a REST API]()
 
 <h2>📄 Certifications</h2>
