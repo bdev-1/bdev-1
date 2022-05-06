@@ -2,12 +2,12 @@
     
 <h2>Cybersecurity Projects</h2>
   
-  - [Active Directory: OS Deployment and Managing User Accounts]()......................................................Summer 2022
-  - [PowerShell File Integrity Monitor]()......................................................Summer 2022
-  - [Nessus Vulnerability Management]()......................................................Summer 2022
-  - [Honeypot Analysis with Azure Sentinel]()......................................................Summer 2022
-  - [NERC CIP Framework Implemenation]()......................................................Summer 2022
-  - [Building a REST API]() ......................................................Summer 2022
+  - [Active Directory: OS Deployment and Managing User Accounts]()....................................Summer 2022
+  - [PowerShell File Integrity Monitor]()..........................................................................................Summer 2022
+  - [Nessus Vulnerability Management]().......................................................................................Summer 2022
+  - [Honeypot Analysis with Azure Sentinel]()...............................................................................Summer 2022
+  - [NERC CIP Framework Implemenation]()................................................................................Summer 2022
+  - [Building a REST API]()...............................................................................................................Summer 2022
 
 <h2>Certifications</h2>
 
