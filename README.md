@@ -38,7 +38,6 @@
 
 <h2>🤳 Connect with me</h2>
 
-[<img align="left" alt="BrandonTerry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="center" src="https://github.com/bdev-1/bdev-1/blob/main/linkedin.png" width="100"> 
 
-[linkedin]:https://linkedin.com/in/brandondiazterry 
 
