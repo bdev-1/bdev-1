@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/bdev-1/bdev-1/blob/main/ucf.png" width="826"> 
+<img align="center" src="https://github.com/bdev-1/bdev-1/blob/main/ucf.png" width="900"> 
     
 <h2>Cybersecurity Projects</h2>
   
