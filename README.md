@@ -4,7 +4,7 @@
 
 <h1 align="center">🇺🇸 Hello! 🇩🇪 Hallo! 🇷🇺 Здравствуйте!<br/><a href="https://github.com/bdev-1">Programmer</a>, <a href="https://www.linkedin.com/in/brandondiazterry/">Cybersecurity Professional</a>, <a href="https://brandon-terry.wixsite.com/projects">Blogger</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects</h2>
+<h2>Cybersecurity Projects</h2>
 
   - [Active Directory: OS Deployment and Managing User Accounts]()
   - [File Integrity Monitor in PowerShell]()
@@ -13,7 +13,7 @@
   - [Implementation of NERC CIP Framework]()
   - [Building a REST API]()
 
-<h2>✅ Certifications</h2>
+<h2>Certifications</h2>
 
 <img align="center" src="https://github.com/bdev-1/bdev-1/blob/main/comptia.png" width="100"> 
 
@@ -36,7 +36,7 @@
   - [Level B1 in Russian]()
   - [Level B2 in Russian]()
 
-<h2>🤳 Connect with me</h2>
+<h2>Connect with me</h2>
 
 <img align="center" src="https://github.com/bdev-1/bdev-1/blob/main/linkedin.png" width="100"> 
 
