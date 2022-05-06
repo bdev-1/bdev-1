@@ -1,12 +1,7 @@
-
-
-
-
 <h1 align="center">🇺🇸 Hello! 🇩🇪 Hallo! 🇷🇺 Здравствуйте!<br/>
-  <hr>
-
+  
 <h2>Cybersecurity Projects</h2>
-
+  
   - [Active Directory: OS Deployment and Managing User Accounts]()
   - [File Integrity Monitor in PowerShell]()
   - [Resolving Vulnerabilities with Nessus]()
@@ -17,7 +12,6 @@
 <h2>Certifications</h2>
 
 <img align="center" src="https://github.com/bdev-1/bdev-1/blob/main/comptia.png" width="100"> 
-
 
   - [CompTIA A+, Summer 2022]()
   - [CompTIA Network+, Fall 2022]()  
