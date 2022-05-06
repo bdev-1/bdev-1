@@ -15,19 +15,22 @@
 
 <h2>✅ Certifications</h2>
 
-<b>CompTIA</b>
+<img align="center" src="https://github.com/bdev-1/bdev-1/blob/main/comptia.png" width="100"> 
+
 
   - [CompTIA A+, Summer 2022]()
-  - [CompTIA Network+, Fall 2022]()
+  - [CompTIA Network+, Fall 2022]()  
   - [CompTIA Security+, Spring 2023]()
   - [CompTIA Linux+, Summer 2023]()
 
- <b>Google</b>
-  - [Google IT Support]()
+<img align="center" src="https://github.com/bdev-1/bdev-1/blob/main/google.png" width="100"> 
+
+  - [Google IT Support](https://www.credly.com/badges/4f11440b-b9be-439d-b9ad-cbe57d9d7761)
   - [Google IT Automation with Python]()
   - [Google Project Management]()
 
- <b>Busuu</b>
+<img align="center" src="https://github.com/bdev-1/bdev-1/blob/main/busuu.png" width="100"> 
+
   - [Level A1 in Russian]()
   - [Level A2 in Russian]()
   - [Level B1 in Russian]()
