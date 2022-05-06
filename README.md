@@ -13,7 +13,8 @@
   - [Implementation of NERC CIP Framework]()
   - [Building a REST API]()
 
-<h2>📄 Certifications</h2>
+<h2>✅ Certifications</h2>
+
 <b>CompTIA</b>
 
   - [CompTIA A+, Summer 2022]()
