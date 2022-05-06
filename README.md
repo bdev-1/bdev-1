@@ -1,35 +1,35 @@
 <h1 align="center">🇺🇸 Hello! 🇩🇪 Hallo! 🇷🇺 Здравствуйте!<br/>
-  
+    
 <h2>Cybersecurity Projects</h2>
   
-  - [Active Directory: OS Deployment and Managing User Accounts]()
-  - [File Integrity Monitor in PowerShell]()
-  - [Resolving Vulnerabilities with Nessus]()
-  - [Honeypot analysis with Azure Sentinel]()
-  - [Implementation of NERC CIP Framework]()
-  - [Building a REST API]()
+  - [Active Directory: OS Deployment and Managing User Accounts]()......................................................
+  - [PowerShell File Integrity Monitor]()......................................................
+  - [Resolving Vulnerabilities with Nessus]()......................................................
+  - [Honeypot Analysis with Azure Sentinel]()......................................................
+  - [Implementation of NERC CIP Framework]()......................................................
+  - [Building a REST API]() ......................................................
 
 <h2>Certifications</h2>
 
 <img align="center" src="https://github.com/bdev-1/bdev-1/blob/main/comptia.png" width="100"> 
 
-  - [CompTIA A+, Summer 2022]()
-  - [CompTIA Network+, Fall 2022]()  
-  - [CompTIA Security+, Spring 2023]()
-  - [CompTIA Linux+, Summer 2023]()
+  - [CompTIA A+]().......................................................... Summer 2022
+  - [CompTIA Network+]().................................................... Fall 2022  
+  - [CompTIA Security+]()................................................... Spring 2023
+  - [CompTIA Linux+]()................................................... Summer 2023
 
 <img align="center" src="https://github.com/bdev-1/bdev-1/blob/main/google.png" width="100"> 
 
-  - [Google IT Support](https://www.credly.com/badges/4f11440b-b9be-439d-b9ad-cbe57d9d7761)
-  - [Google IT Automation with Python]()
-  - [Google Project Management]()
+  - [Google IT Support](https://www.credly.com/badges/4f11440b-b9be-439d-b9ad-cbe57d9d7761)................................Spring 2022
+  - [Google IT Automation with Python]().......................................Summer 2022
+  - [Google Project Management]()...............................................Fall 2022
 
 <img align="center" src="https://github.com/bdev-1/bdev-1/blob/main/busuu.png" width="100"> 
 
-  - [Level A1 in Russian]()
-  - [Level A2 in Russian]()
-  - [Level B1 in Russian]()
-  - [Level B2 in Russian]()
+  - [Level A1 in Russian]()...................................................... Summer 2022
+  - [Level A2 in Russian]()...................................................... Summer 2022
+  - [Level B1 in Russian]()...................................................... Summer 2022
+  - [Level B2 in Russian]()...................................................... Summer 2022
 
 <h2>Connect with me</h2>
 
