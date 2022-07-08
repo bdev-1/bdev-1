@@ -21,8 +21,8 @@
 <img align="center" src="https://github.com/bdev-1/bdev-1/blob/main/google.png" width="100"> 
 
   - [Google IT Support](https://www.credly.com/badges/4f11440b-b9be-439d-b9ad-cbe57d9d7761)..........................................................Spring 2022 
-  - [Google IT Automation with Python]()..............................Summer 2022
-  - [Google Project Management]()........................................Fall 2022
+  - [Google IT Automation with Python]()..............................Fall 2022
+  - [Google Project Management]()........................................Spring 2023
 
 <img align="center" src="https://github.com/bdev-1/bdev-1/blob/main/busuu.png" width="100"> 
 
