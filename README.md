@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/bdev-1/bdev-1/blob/main/newucf.png" width="1000"> 
     
-<h2>Cybersecurity Projects</h2>
+<h2>Planned Cybersecurity Projects</h2>
   
   - [Active Directory: OS Deployment and Managing User Accounts]()....................................Summer 2022
   - [PowerShell File Integrity Monitor]()..........................................................................................Summer 2022
@@ -8,6 +8,10 @@
   - [Honeypot Analysis with Azure Sentinel]()...............................................................................Summer 2022
   - [NERC CIP Framework Implemenation]()................................................................................Summer 2022
   - [Building a REST API]()...............................................................................................................Summer 2022
+  
+<h2>Planned Linguistic Projects</h2>
+  
+  - [Parts of Speech Analysis of Russian Songs]()....................................TBD  
 
 <h2>Certifications</h2>
 
