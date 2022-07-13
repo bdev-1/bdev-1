@@ -11,7 +11,7 @@
   
 <h2>Planned Linguistic Projects</h2>
   
-  - [Parts of Speech Analysis of Russian Songs]()....................................TBD  
+  - [Parts of Speech Analysis of Russian Songs with Python]()....................................TBD  
 
 <h2>Certifications</h2>
 
